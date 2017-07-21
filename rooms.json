@@ -1,0 +1,83 @@
+{
+  "rooms": [
+    {
+      "id": "conservatory",
+      "displayName": "Conservatory",
+      "dimensions": {
+        "minX": 0,
+        "maxX": 5,
+        "minY": 0,
+        "maxY": 5
+      }
+    },
+    {
+      "id": "lounge",
+      "displayName": "Lounge",
+      "dimensions": {
+        "minX": 18,
+        "maxX": 24,
+        "minY": 19,
+        "maxY": 24
+      }
+    },
+    {
+      "id": "kitchen",
+      "displayName": "Kitchen"
+      "dimensions": {
+        "minX": 19,
+        "maxX": 24,
+        "minY": 0,
+        "maxY": 5
+      }
+    },
+    {
+      "id": "library",
+      "displayName": "Library",
+      "dimensions": {
+        "minX": 0,
+        "maxX": 6,
+        "minY": 18,
+        "maxY": 14
+      }
+    },
+    {
+      "id": "hall",
+      "displayName": "Hall"
+      "dimensions": {
+        "minX": 9,
+        "maxX": 14,
+        "minY": 18,
+        "maxY": 24
+      }
+    },
+    {
+      "id": "study",
+      "displayName": "Study",
+      "dimensions": {
+        "minX": 0,
+        "maxX": 6,
+        "minY": 21,
+        "maxY": 24
+      }
+    },
+    { 
+      "id": "ballroom",
+      "displayName": "Ballroom",
+      "dimensions": {
+        "minX": 8,
+        "maxX": 15,
+        "minY": 0,
+        "maxY": 7
+      }
+    },
+    {
+      "id": "diningRoom",
+      "displayName": "Dining Room",
+      "dimensions": {
+        "minX": 16,
+        "maxX": 24,
+        "minY": 9,
+        "maxY": 15
+      }
+  ]
+}

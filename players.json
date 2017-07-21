@@ -1,0 +1,64 @@
+{
+  "players" : [
+    { 
+      "name":  "Col. Mustard",
+      "color": "yellow",
+      "startPosition": {
+        "coordinates": {
+          "x":
+          "y":
+        }
+      }
+    },
+    { 
+      "name":  "Miss Scarlet",
+      "color": "red",
+      "startPosition": {
+        "coordinates": {
+          "x":
+          "y":
+        }
+      }
+    },
+    {
+      "name":  "Prof. Plum",
+      "color": "purple",
+      "startPosition": {
+        "coordinates": {
+          "x":
+          "y":
+        }
+      }
+    },
+    {
+      "name":  "Mr. Green",
+      "color": "green",
+      "startPosition": {
+        "coordinates": {
+          "x":
+          "y":
+        }
+      }
+    },
+    {
+      "name":  "Mrs. White",
+      "color": "white",
+      "startPosition": {
+        "coordinates": {
+          "x":
+          "y":
+        }
+      }
+    },
+    {
+      "name":  "Mrs. Peacock",
+      "color": "blue",
+      "startPosition": {
+        "coordinates": {
+          "x":
+          "y":
+        }
+      }
+    }
+  ]
+}
